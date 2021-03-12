@@ -1,0 +1,28 @@
+1. PyKoSpacing 
+   설명 :
+       띄어쓰기가 되어있지 않은 문장을 띄어쓰기 한 문장으로 변환해주는 패키지.
+       대용량 코퍼스를 학습하여 만들어진 띄어쓰기 딥 러닝 모델로 준수한 성능.
+   출처 : 
+       https://github.com/haven-jeon/PyKoSpacing
+
+2. Py-Hanspell
+   설명 : 
+       네이버 한글 맞춤법 검사기를 바탕으로 만들어진 패키지.
+       맞춤법 검사 + 띄어쓰기. 
+   출처 :
+       https://github.com/ssut/py-hanspell
+
+3. SOYNLP
+   설명 :
+      품사 태깅, 단어 토큰화 지원하는 단어 토크나이저.
+      비지도 학습으로 단어 토큰화를 하며, 자주 등장하는 단어로 분석한다.
+      단어 점수 표로 동작 -> 응집 확률 과 브랜칭 엔트로피를 활용.
+      
+      -> 신조어 문제, 반복되는 문자 정제 이용.
+   출처 : 
+      https://github.com/lovit/soynlp
+
+4. Customized KoNLPy
+   설명 :
+       사용자 사전 추가가 쉬움.
+      
